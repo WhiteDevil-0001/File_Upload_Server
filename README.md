@@ -1,4 +1,4 @@
-# File_Upload_website
+# File_Upload_Server
 
 ## Overview
 This project is a simple file upload server built using Flask. It allows users to upload files through a web interface or via HTTP POST requests.
